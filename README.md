@@ -97,7 +97,6 @@ Aaranya-Living/
 ├── campaign/        10 finished posts, 1080 × 1350 (WebP)
 ├── brand/           logo.svg and the logo on photography
 ├── assets/          README banner and campaign grid
-└── CREDITS.md       photographers and licences
 ```
 
 **[Portfolio](https://guru1315-portfolio.vercel.app)** · **[More graphic design work](https://guru1315-portfolio.vercel.app/graphic-designer)**
