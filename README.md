@@ -100,17 +100,6 @@ Aaranya-Living/
 └── CREDITS.md       photographers and licences
 ```
 
-## Credits
-
-**Concept, art direction, copy and design:** Guru Charan.
-
-Aranya Living is a **concept brand** made for this portfolio. It isn't a real developer, and the prices, plans and residents are fictional.
-
-The photography is free-licence stock found through [Openverse](https://openverse.org) (CC BY, CC0 and public domain), then cropped, colour-graded and designed over. Every photographer is credited in **[CREDITS.md](CREDITS.md)**.
-
-<div align="center">
-<br>
-
 **[Portfolio](https://guru1315-portfolio.vercel.app)** · **[More graphic design work](https://guru1315-portfolio.vercel.app/graphic-designer)**
 
 </div>
